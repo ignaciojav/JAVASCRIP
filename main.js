@@ -22,15 +22,16 @@ while (producto != "salir"){
 //producto = prompt("Por favor ingrese la consola que desea comprar(salir para finalizar))");
 
 if (producto == "nintendo switch"){
-   costo = 390
+   costo = 700
    alert("NINTENDO SWITCH $ " + costo)
    
 }else if(producto == "play station"){
-    costo = 450
+    costo = 800
     alert("play station $ " + costo)
 
 }else if(producto == "xbox"){
-    costo = 350
+    costo = 800
+
     alert("XBOX $ " + costo)
 }
 
